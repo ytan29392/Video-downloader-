@@ -2,7 +2,7 @@ import os
 
 # Root structure with file contents
 structure = {
-    "terabox-downloader/backend/app/main.py": """from fastapi import FastAPI
+    "video-downloader/backend/app/main.py": """from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from .routes.download import router as download_router
 
