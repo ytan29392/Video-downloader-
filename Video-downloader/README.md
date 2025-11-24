@@ -1,3 +1,3 @@
-# Terabox Video Downloader (FastAPI + React)
+# Video and Audio Downloader (FastAPI + React)
 
-A web-based downloader for Terabox videos.
+A web-based downloader for videos and audio.
