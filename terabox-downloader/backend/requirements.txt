@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+requests
+python-multipart
+yt-dlp
+ffmpeg-python
+yt_dlp
+python-dotenv
+requests

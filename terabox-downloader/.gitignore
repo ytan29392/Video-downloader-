@@ -1,0 +1,56 @@
+# -----------------------
+# Python / Backend
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env.*
+venv/
+env/
+.vevn/
+*.sqlite3
+*.log
+
+# VS Code
+.vscode/
+
+# Byte-compiled / Cache
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# -----------------------
+# Node / Frontend
+# -----------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# -----------------------
+# Docker
+# -----------------------
+*.dockerignore
+docker-compose.override.yml
+*.tar
+*.tmp
+
+# -----------------------
+# OS Files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Other / Misc
+# -----------------------
+*.bak
+*.backup
+*.swp
